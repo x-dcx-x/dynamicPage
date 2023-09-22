@@ -17,6 +17,6 @@ a:hover{
     font-size: 1.6em;
 }
 
-p{
-    visibility:none;
+.hiden{
+    visibility:collapse;
 }
