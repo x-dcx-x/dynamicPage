@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+a:hover{
+    color: blue;
+    border:solid 2px;
+    border-color:blue;
+    padding: 5px;
+    cursor: zoom-in;
+    font-size: 1.6em;
+}
+
+p{
+    visibility:none;
+}
